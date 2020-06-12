@@ -13,4 +13,4 @@ blocks may also be placed with right click and if you are holding a sword right 
 remember to hit the ghosts before they hit you and good luck.
 
 olcPixelGameEngine - javidx9 - https://github.com/OneLoneCoder/olcPixelGameEngine
-OpenSimplex - smcameron - https://github.com/smcameron/open-simplex-noise-in-c
+OpenSimplex noise implementation - smcameron - https://github.com/smcameron/open-simplex-noise-in-c
